@@ -80,17 +80,6 @@ const DIRECTION_MAP: Record<string, number> = {
   ArrowLeft: MoveState.LEFT,
 };
 
-
-
-
-
-
-
-
-
-
-
-
 type Segment = { x: number; y: number };
 
 const Sammy = () => {
